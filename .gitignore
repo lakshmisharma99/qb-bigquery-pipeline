@@ -1,0 +1,8 @@
+.env
+*.json
+__pycache__/
+.venv/
+run_sync.bat
+sync_log.txt
+sync_failures.txt
+test_state.json
